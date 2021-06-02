@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FofoMalo
 - 👀 I’m interested in pee programming
-- 🌱 I’m currently learning Html5 (the basics :); Css3 let shine the world with colors, also the king JavaScript to : let world = 'share the knowledge';
+- 🌱 I’m currently front-end developper-junior
 - 💞️ I’m looking to collaborate on everything on open-source,
-- 📫 How to reach me @FofoMalo, or go to 
+- 📫 How to reach me @FofoMalo, mail to maloflorent3@gmail.com :) hope to hear you
 
 <!---
 FofoMalo/FofoMalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
