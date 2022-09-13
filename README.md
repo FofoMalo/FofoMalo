@@ -3,9 +3,10 @@
 - 👋 Hi, I’m @FofoMalo
 - I'm a web developper and also interrest by all IT
 
-huge fan of linux and GNU/GPL.
+- I'm a huge fan of linux and GNU/GPL.
 
-<a href="https://app.daily.dev/Fofomalo"><img src="https://api.daily.dev/devcards/e269921a402b4a12aefae05fc7a8e586.png?r=kzt" width="400" alt="MALO “Fofo” Florent's Dev Card"/></a>
+<a href="https://app.daily.dev/Fofomalo"><img src="https://github.com/FofoMalo/FofoMalo/blob/main/devcard.svg" width="400" alt="MALO “Fofo” Florent's Dev Card"/></a>
+
 - 📫 How to reach me @FofoMalo, mail to maloflorent3@gmail.com.
 
 ## Where to reach me? 
