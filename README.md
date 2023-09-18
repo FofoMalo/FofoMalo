@@ -1,9 +1,8 @@
 # Florent Malo
-## Developpeur web
+## Tech Enthusiast 
 - 👋 Hi, I’m @FofoMalo
-- I'm a web developper and also interrest by all IT
-
-- I'm a huge fan of linux and GNU/GPL.
+- I'm a web developper, interrest by sharing and learning all new technology, but also old.
+- I'm a huge fan of linux and GNU/GPL in general open source world.
 
 <a href="https://app.daily.dev/Fofomalo"><img src="https://github.com/FofoMalo/FofoMalo/blob/main/devcard.svg" width="400" alt="MALO “Fofo” Florent's Dev Card"/></a>
 
