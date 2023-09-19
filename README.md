@@ -4,7 +4,7 @@
 - I'm a web developper, interrest by sharing and learning all new technology, but also old.
 - I'm a huge fan of linux and GNU/GPL in general open source world.
 
-[![FofoMalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FofoMalo)](https://github.com/FofoMalo/github-readme-stats)
+[![FofoMalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FofoMalo&show_icons=true&theme=dracula)](https://github.com/FofoMalo/github-readme-stats)
 
 - 📫 How to reach me @FofoMalo, mail to maloflorent3@gmail.com.
 
